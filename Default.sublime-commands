@@ -16,6 +16,10 @@
         "command": "clojure_sublimed_connect_socket_repl"
     },
     {
+        "caption": "Clojure Sublimed: Connect to racket-mode REPL",
+        "command": "clojure_sublimed_connect_racket"
+    },
+    {
         "caption": "Clojure Sublimed: Disconnect",
         "command": "clojure_sublimed_disconnect"
     },
